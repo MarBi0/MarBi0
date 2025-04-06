@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Llevo crando bugs desde 2020 cuando empece a programar.<br>📚 Ahora estoy aprendiendo sobre Kotlin Multiplataforma.</p>
+<p align="left">✨ Llevo creando bugs desde 2020 cuando empece a programar.<br>📚 Ahora estoy aprendiendo sobre Kotlin Multiplataforma.</p>
 
 ###
 
